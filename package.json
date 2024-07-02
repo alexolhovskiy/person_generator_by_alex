@@ -1,0 +1,26 @@
+{
+  "name": "person_generator_by_alex",
+  "version": "0.0.1",
+  "description": "File to generate random persons for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexolhovskiy/person_generator_by_alex.git"
+  },
+  "keywords": [
+    "generator",
+    "random",
+    "person",
+    "json",
+    "array"
+  ],
+  "author": "alex olhovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexolhovskiy/person_generator_by_alex/issues"
+  },
+  "homepage": "https://github.com/alexolhovskiy/person_generator_by_alex#readme"
+}
